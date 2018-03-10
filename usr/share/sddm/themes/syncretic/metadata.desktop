@@ -1,0 +1,10 @@
+[SddmGreeterTheme]
+Name=Syncretic
+Description=Default Syncretic SDDM Theme
+License=CC-BY-SA
+Type=sddm-theme
+Version=1.0
+MainScript=Main.qml
+Theme-Id=syncretic
+Theme-API=2.0
+Screenshot=screenshot.png
